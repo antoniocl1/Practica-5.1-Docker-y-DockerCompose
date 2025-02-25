@@ -6,7 +6,7 @@
 - **3. Ejecutar los dockers con "sudo docker compose up -d"**
 - **4. Eliminar los dockers con "sudo docker compose down -v"**
 
-## Comprobaciones previas
+## Comprobaciones de funcionamiento
 ![Salida-Compose](capturas/salida-compose.png)
 ![Compose-ps](capturas/docker-compose-ps.png)
 ![Certificado-e-instalacion](capturas/certificado-instalacion.png)
